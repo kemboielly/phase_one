@@ -2,14 +2,14 @@
 # Microsoft's Movie Analysis
 
 **Overview**
-I analyzed 3 CSV files to provide Microsoft with recommendations for producing their own films
+- I analyzed 3 CSV files to provide Microsoft with recommendations for producing their own films
 **Business Problem**
-Microsoft may be able to increase their chances of movie office success by investing in films that have comparable attributes to recent popular releases. Our analyses were guided by the following questions:
+- Microsoft may be able to increase their chances of movie office success by investing in films that have comparable attributes to recent popular releases. Our analyses were guided by the following questions:
 1. How were the sales distributed in particular years
 2. Which studio made the most movie titles
 
 **Data**
-I used data form the following csf files
+- I used data form the following csf files
 1. 'bom.movie_gross.csv' - This file has 3387 rows and 5 rows of data. They contain title names foreign and domestic gross sales in particular years
 2. 'tmdb.movies.csv' - This file contains a list of mvie titles with its popularity given by fans
 3. 'tn.movie_budgets' - This file contains movie titles with its correspondent budgets and sales it made worldwide
