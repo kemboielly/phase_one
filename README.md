@@ -25,3 +25,13 @@
 **Conclusion**
 - Collaboration and Partnerships:  Forming strategic partnerships can facilitate access to talent, resources, and distribution channels, increasing the chances of success for Microsoft's films. If Microsoft is looking into collaborating with a studio, they should consider Universal Studios because they have created the most number of movie titles compared to other studios
 - Have high budgets to invest in high-quality production: Focus on producing films with high production values, compelling storytelling, and engaging visuals. A strong emphasis on quality will help differentiate Microsoft's films from competitors and attract discerning moviegoers. High budgeted movies tend to bring high sales
+
+
+
+
+**Presentation**
+Here is a link to a powerpoint I created for presentation
+
+https://www.canva.com/design/DAFkMd7o6t0/fCiUx-7qhQKB9xMsGPaAWg/view?utm_content=DAFkMd7o6t0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
